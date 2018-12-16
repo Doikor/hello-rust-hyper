@@ -1,0 +1,13 @@
+[package]
+name = "hello-rust-hyper"
+version = "0.1.0"
+authors = ["Aki Huttunen <doikor@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+hyper = "0.12"
+futures = "0.1"
+serde = "1.0"
+serde_json = "1.0"
+serde_derive = "1.0"
+bytes = "0.4"
